@@ -1,0 +1,20 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+body {
+    width: 760px;
+    margin: 0 auto;
+    background-color: rgb(6, 6, 133);
+}
+header {
+    background-color:red;
+    display: flex;
+    padding: 10px;
+    justify-content: space-between;
+    margin: 10px;
+    border-radius: 5px;
+}
+h1{
+    color: white;
+}
