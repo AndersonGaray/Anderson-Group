@@ -29,4 +29,24 @@ li{
 .cuerpo{
     display: flex;
 }
-
+nav
+{
+margin-top: 2rem;
+padding: 2rem; display: inline-block;
+ background-color: #297D8C; 
+ border-radius: .6rem; 
+ vertical-align: top;
+}
+main
+{ 
+    width: 56rem;
+margin-top: 2rem;
+margin-left: 2rem; 
+padding: 2rem; display: inline-block;
+ background-color: #0E1822;
+  border-radius: .5rem;
+}
+main h2
+{ font-size: 1.7rem; 
+font-weight: 800;
+}
