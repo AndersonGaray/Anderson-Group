@@ -27,5 +27,6 @@ li{
     color: aqua;
 }
 .cuerpo{
+    display: flex;
 }
 
